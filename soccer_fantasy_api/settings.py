@@ -20,6 +20,7 @@ INSTALLED_APPS = [
   'dr_scaffold',
   'drf_yasg',
   # Local Apps
+  'competitions',
   'teams'
 ]
 
