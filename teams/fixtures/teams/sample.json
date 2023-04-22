@@ -1,0 +1,506 @@
+[
+  {
+    "model": "teams.team",
+    "pk": 1,
+    "fields": {
+      "name": "ABC",
+      "name_complete": "ABC FUTEBOL CLUBE",
+      "stadium": "FRASQUEIRÃO",
+      "city": "NATAL/RN",
+      "founded_in": 1915,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 2,
+    "fields": {
+      "name": "ATLÉTICO GOIANIENSE",
+      "name_complete": "ATLÉTICO CLUBE GOIANIENSE",
+      "stadium": "ANTÔNIO ACCIOLY",
+      "city": "GOIÂNIA/RN",
+      "founded_in": 1937,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 3,
+    "fields": {
+      "name": "AVAÍ",
+      "name_complete": "AvAÍ FUTEBOL CLUBE",
+      "stadium": "RESSACADA",
+      "city": "FLORIANÓPOLIS/SC",
+      "founded_in": 1923,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 4,
+    "fields": {
+      "name": "BOTAFOGO/SP",
+      "name_complete": "BOTAFOGO FUTEBOL CLUBE",
+      "stadium": "SANTA CRUZ",
+      "city": "RIBEIRÃO PRETO/SP",
+      "founded_in": 1918,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 5,
+    "fields": {
+      "name": "CEARÁ",
+      "name_complete": "CEARÁ SPORTING CLUB",
+      "stadium": "ARENA CASTELÃO",
+      "city": "FORTALEZA/CE",
+      "founded_in": 1914,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 6,
+    "fields": {
+      "name": "CHAPECOENSE",
+      "name_complete": "ASSOCIAÇÃO CHAPECOENSE DE FUTEBOL",
+      "stadium": "ARENA CONDÁ",
+      "city": "CHAPECÓ/SC",
+      "founded_in": 1973,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 7,
+    "fields": {
+      "name": "CRB",
+      "name_complete": "CLUBE DE REGATAS BRASIL",
+      "stadium": "REI PELÉ",
+      "city": "MACEIÓ",
+      "founded_in": 1912,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 8,
+    "fields": {
+      "name": "CRICIÚMA",
+      "name_complete": "CRICIÚMA ESPORTE CLUBE",
+      "stadium": "HERIBERTO HÜLSE",
+      "city": "CRICIÚMA/SC",
+      "founded_in": 1947,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 9,
+    "fields": {
+      "name": "GUARANI",
+      "name_complete": "GUARANI FUTEBOL CLUBE",
+      "stadium": "BRINCO DE OURO",
+      "city": "CAMPINAS/SP",
+      "founded_in": 1911,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 10,
+    "fields": {
+      "name": "ITUANO",
+      "name_complete": "ITUANO FUTEBOL CLUBE",
+      "stadium": "NOVELLI JÚNIOR",
+      "city": "ITU/SP",
+      "founded_in": 1947,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 11,
+    "fields": {
+      "name": "JUVENTUDE",
+      "name_complete": "ESPORTE CLUBE JUVENTUDE",
+      "stadium": "ALFREDO JACONI",
+      "city": "CAXIAS DO SUL/RS",
+      "founded_in": 1913,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 12,
+    "fields": {
+      "name": "LONDRINA",
+      "name_complete": "LONDRINA ESPORTE CLUBE",
+      "stadium": "ESTÁDIO DO CAFÉ",
+      "city": "LONDRINA/PR",
+      "founded_in": 1956,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 13,
+    "fields": {
+      "name": "MIRASSOL",
+      "name_complete": "MIRASSOL FUTEBOL CLUBE",
+      "stadium": "MAIÃO",
+      "city": "MIRASSOL/SP",
+      "founded_in": 1925,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 14,
+    "fields": {
+      "name": "NOVORIZONTINO",
+      "name_complete": "GRÊMIO NOVORIZONTINO",
+      "stadium": "JORGE ISMAEL DE BIASI",
+      "city": "NOVO HORIZONTE/SP",
+      "founded_in": 2010,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 15,
+    "fields": {
+      "name": "PONTE PRETA",
+      "name_complete": "ASSOCIAÇÃO ATLÉTICA PONTE PRETA",
+      "stadium": "MOISÉS LUCARELLI",
+      "city": "CAMPINAS/SP",
+      "founded_in": 1900,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 16,
+    "fields": {
+      "name": "SAMPAIO CORRÊA",
+      "name_complete": "SAMPAIO CORRÊA FUTEBOL CLUBE",
+      "stadium": "CASTELÃO",
+      "city": "SÃO LUÍS/MA",
+      "founded_in": 1923,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 17,
+    "fields": {
+      "name": "SPORT RECIFE",
+      "name_complete": "SPORT CLUB DO RECIFE",
+      "stadium": "ILHA DO RETIRO",
+      "city": "RECIFE/PE",
+      "founded_in": 1905,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 18,
+    "fields": {
+      "name": "TOMBENSE",
+      "name_complete": "TOMBENSE FUTEBOL CLUBE",
+      "stadium": "SOARES DE AZEVEDO",
+      "city": "TOMBOS/MG",
+      "founded_in": 1914,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 19,
+    "fields": {
+      "name": "VILA NOVA",
+      "name_complete": "VILA NOVA FUTEBOL CLUBE",
+      "stadium": "ONÉSIO BRASILEIRO ALVARENGA",
+      "city": "GOIÂNIA/GO",
+      "founded_in": 1943,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 20,
+    "fields": {
+      "name": "VITÓRIA",
+      "name_complete": "ESPORTE CLUBE VITÓRIA",
+      "stadium": "BARRADÃO",
+      "city": "SALVADOR/BA",
+      "founded_in": 1899,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 21,
+    "fields": {
+      "name": "AMÉRICA MINEIRO",
+      "name_complete": "AMÉRICA FUTEBOL CLUBE",
+      "stadium": "INDEPENDÊNCIA",
+      "city": "BELO HORIZONTE/MG",
+      "founded_in": 1912,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 22,
+    "fields": {
+      "name": "ATHLÉTICO/PR",
+      "name_complete": "CLUB ATHLÉTICO PARANAENSE",
+      "stadium": "ARENA DA BAIXADA",
+      "city": "CURITIBA/PR",
+      "founded_in": 1924,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 23,
+    "fields": {
+      "name": "ATLÉTICO/MG",
+      "name_complete": "CLUBE ATLÉTICO MINEIRO",
+      "stadium": "ARENA MRV",
+      "city": "BELO HORIZONTE/MG",
+      "founded_in": 1908,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 24,
+    "fields": {
+      "name": "BAHIA",
+      "name_complete": "ESPORTE CLUBE BAHIA",
+      "stadium": "FONTE NOVA",
+      "city": "SALVADOR/BA",
+      "founded_in": 1931,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 25,
+    "fields": {
+      "name": "BOTAFOGO/RJ",
+      "name_complete": "BOTAFOGO DE FUTEBOL E REGATAS",
+      "stadium": "NILTON SANTOS",
+      "city": "RIO DE JANEIRO/RJ",
+      "founded_in": 1894,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 26,
+    "fields": {
+      "name": "CORINTHIANS",
+      "name_complete": "SPORT CLUB CORINTHIANS",
+      "stadium": "NEO QUÍMICA ARENA",
+      "city": "SÃO PAULO/SP",
+      "founded_in": 1910,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 27,
+    "fields": {
+      "name": "CORITIBA",
+      "name_complete": "CORITIBA FOOT BALL CLUB",
+      "stadium": "COUTO PEREIRA",
+      "city": "CURITIBA/PR",
+      "founded_in": 1909,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 28,
+    "fields": {
+      "name": "CRUZEIRO",
+      "name_complete": "CRUZEIRO ESPORTE CLUBE",
+      "stadium": "INDEPENDÊNCIA",
+      "city": "BELO HORIZONTE/MG",
+      "founded_in": 1921,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 29,
+    "fields": {
+      "name": "CUIABÁ",
+      "name_complete": "CUIABÁ ESPORTE CLUBE",
+      "stadium": "ARENA PANTANAL",
+      "city": "CUIABÁ/MT",
+      "founded_in": 2001,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 30,
+    "fields": {
+      "name": "FLAMENGO",
+      "name_complete": "CLUBE DE REGATAS DO FLAMENGO",
+      "stadium": "MARACANÃ",
+      "city": "RIO DE JANEIRO/RJ",
+      "founded_in": 1895,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 31,
+    "fields": {
+      "name": "FLUMINENSE",
+      "name_complete": "FLUMINENSE FOOTBALL CLUB",
+      "stadium": "MARACANÃ",
+      "city": "RIO DE JANEIRO/RJ",
+      "founded_in": 1902,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 32,
+    "fields": {
+      "name": "FORTALEZA",
+      "name_complete": "FORTALEZA ESPORTE CLUBE",
+      "stadium": "ARENA CASTELÃO",
+      "city": "FORTALEZA/CE",
+      "founded_in": 1918,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 33,
+    "fields": {
+      "name": "GOIÁS",
+      "name_complete": "GOIÁS ESPORTE CLUBE",
+      "stadium": "SERRA DOURADA",
+      "city": "GOIÂNIA/GO",
+      "founded_in": 1943,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 34,
+    "fields": {
+      "name": "GRÊMIO",
+      "name_complete": "GRÊMIO FOOT-BALL PORTO ALEGRENSE",
+      "stadium": "ARENA DO GRÊMIO",
+      "city": "PORTO ALEGRE/RS",
+      "founded_in": 1903,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 35,
+    "fields": {
+      "name": "INTERNACIONAL",
+      "name_complete": "SPORT CLUB INTERNACIONAL",
+      "stadium": "BEIRA-RIO",
+      "city": "PORTO ALEGRE/RS",
+      "founded_in": 1909,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 36,
+    "fields": {
+      "name": "PALMEIRAS",
+      "name_complete": "SOCIEDADE ESPORTIVA PALMEIRAS",
+      "stadium": "ALIANZ PARQUE",
+      "city": "SÃO PAULO/SP",
+      "founded_in": 1914,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 37,
+    "fields": {
+      "name": "BRAGANTINO",
+      "name_complete": "RED BULL BRAGANTINO",
+      "stadium": "NABI ABI CHEDID",
+      "city": "BRAGANÇA PAULISTA/SP",
+      "founded_in": 1928,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 38,
+    "fields": {
+      "name": "SANTOS",
+      "name_complete": "SANTOS FUTEBOL CLUBE",
+      "stadium": "VILA BELMIRO",
+      "city": "SANTOS/SP",
+      "founded_in": 1912,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 39,
+    "fields": {
+      "name": "SÃO PAULO",
+      "name_complete": "SÃO PAULO FUTEBOL CLUBE",
+      "stadium": "MOBUMBI",
+      "city": "SÃO PAULO/SP",
+      "founded_in": 1930,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 40,
+    "fields": {
+      "name": "VASCO DA GAMA",
+      "name_complete": "CLUB DE REGATAS VASCO DA GAMA",
+      "stadium": "SÃO JANUÁRIO",
+      "city": "RIO DE JANEIRO/RJ",
+      "founded_in": 1898,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 41,
+    "fields": {
+      "name": "AMÉRICA/RN",
+      "name_complete": "AMÉRICA FUTEBOL CLUBE",
+      "stadium": "ARENA DAS DUNAS",
+      "city": "NATAL/RN",
+      "founded_in": 1915,
+      "status": 1
+    }
+  },
+  {
+    "model": "teams.team",
+    "pk": 42,
+    "fields": {
+      "name": "ALECRIM/RN",
+      "name_complete": "ALECRIM FUTEBOL CLUBE",
+      "stadium": "ARENA DAS DUNAS",
+      "city": "NATAL/RN",
+      "founded_in": 1915,
+      "status": 1
+    }
+  }
+]
