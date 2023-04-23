@@ -21,6 +21,7 @@ INSTALLED_APPS = [
   'drf_yasg',
   # Local Apps
   'competitions',
+  'rounds',
   'teams'
 ]
 

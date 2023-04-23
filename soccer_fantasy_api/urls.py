@@ -20,6 +20,7 @@ schema_view = get_schema_view(
 urlpatterns = [
   path('teams/', include('teams.urls')),
   path('competitions/', include('competitions.urls')),
+  path('rounds/', include('rounds.urls')),
 ]
 
 #Swagger
