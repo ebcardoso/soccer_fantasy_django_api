@@ -1,3 +1,4 @@
+from django.contrib import admin
 from django.urls import path, re_path
 from django.conf.urls import include
 from drf_yasg.views import get_schema_view
@@ -18,9 +19,16 @@ schema_view = get_schema_view(
 )
 
 urlpatterns = [
+  path('admin/', admin.site.urls),
   path('teams/', include('teams.urls')),
   path('competitions/', include('competitions.urls')),
   path('rounds/', include('rounds.urls')),
+]
+
+#Djoser
+urlpatterns += [
+  path('api/', include('djoser.urls')),
+  path('api/auth', include('djoser.urls.authtoken')),
 ]
 
 #Swagger

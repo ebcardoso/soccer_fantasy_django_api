@@ -10,6 +10,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
+  'django.contrib.admin',
   'django.contrib.auth',
   'django.contrib.contenttypes',
   'django.contrib.sessions',
@@ -17,13 +18,24 @@ INSTALLED_APPS = [
   'django.contrib.staticfiles',
   # Imported Apps
   'rest_framework',
+  'rest_framework.authtoken',
   'dr_scaffold',
   'drf_yasg',
+  'djoser',
   # Local Apps
   'competitions',
   'rounds',
   'teams'
 ]
+
+REST_FRAMEWORK = {
+  'DEFAULT_AUTHENTICATION_CLASSES': (
+    'rest_framework.authentication.TokenAuthentication',
+  ),
+  'DEFAULT_PERMISSION_CLASSES': (
+    'rest_framework.permissions.IsAuthenticated',
+  ),
+}
 
 MIDDLEWARE = [
   'django.middleware.security.SecurityMiddleware',
