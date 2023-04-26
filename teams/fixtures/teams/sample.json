@@ -8,7 +8,9 @@
       "stadium": "FRASQUEIRÃO",
       "city": "NATAL/RN",
       "founded_in": 1915,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -20,7 +22,9 @@
       "stadium": "ANTÔNIO ACCIOLY",
       "city": "GOIÂNIA/RN",
       "founded_in": 1937,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -32,7 +36,9 @@
       "stadium": "RESSACADA",
       "city": "FLORIANÓPOLIS/SC",
       "founded_in": 1923,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -44,7 +50,9 @@
       "stadium": "SANTA CRUZ",
       "city": "RIBEIRÃO PRETO/SP",
       "founded_in": 1918,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -56,7 +64,9 @@
       "stadium": "ARENA CASTELÃO",
       "city": "FORTALEZA/CE",
       "founded_in": 1914,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -68,7 +78,9 @@
       "stadium": "ARENA CONDÁ",
       "city": "CHAPECÓ/SC",
       "founded_in": 1973,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -80,7 +92,9 @@
       "stadium": "REI PELÉ",
       "city": "MACEIÓ",
       "founded_in": 1912,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -92,7 +106,9 @@
       "stadium": "HERIBERTO HÜLSE",
       "city": "CRICIÚMA/SC",
       "founded_in": 1947,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -104,7 +120,9 @@
       "stadium": "BRINCO DE OURO",
       "city": "CAMPINAS/SP",
       "founded_in": 1911,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -116,7 +134,9 @@
       "stadium": "NOVELLI JÚNIOR",
       "city": "ITU/SP",
       "founded_in": 1947,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -128,7 +148,9 @@
       "stadium": "ALFREDO JACONI",
       "city": "CAXIAS DO SUL/RS",
       "founded_in": 1913,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -140,7 +162,9 @@
       "stadium": "ESTÁDIO DO CAFÉ",
       "city": "LONDRINA/PR",
       "founded_in": 1956,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -152,7 +176,9 @@
       "stadium": "MAIÃO",
       "city": "MIRASSOL/SP",
       "founded_in": 1925,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -164,7 +190,9 @@
       "stadium": "JORGE ISMAEL DE BIASI",
       "city": "NOVO HORIZONTE/SP",
       "founded_in": 2010,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -176,7 +204,9 @@
       "stadium": "MOISÉS LUCARELLI",
       "city": "CAMPINAS/SP",
       "founded_in": 1900,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -188,7 +218,9 @@
       "stadium": "CASTELÃO",
       "city": "SÃO LUÍS/MA",
       "founded_in": 1923,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -200,7 +232,9 @@
       "stadium": "ILHA DO RETIRO",
       "city": "RECIFE/PE",
       "founded_in": 1905,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -212,7 +246,9 @@
       "stadium": "SOARES DE AZEVEDO",
       "city": "TOMBOS/MG",
       "founded_in": 1914,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -224,7 +260,9 @@
       "stadium": "ONÉSIO BRASILEIRO ALVARENGA",
       "city": "GOIÂNIA/GO",
       "founded_in": 1943,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -236,7 +274,9 @@
       "stadium": "BARRADÃO",
       "city": "SALVADOR/BA",
       "founded_in": 1899,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -248,7 +288,9 @@
       "stadium": "INDEPENDÊNCIA",
       "city": "BELO HORIZONTE/MG",
       "founded_in": 1912,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -260,7 +302,9 @@
       "stadium": "ARENA DA BAIXADA",
       "city": "CURITIBA/PR",
       "founded_in": 1924,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -272,7 +316,9 @@
       "stadium": "ARENA MRV",
       "city": "BELO HORIZONTE/MG",
       "founded_in": 1908,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -284,7 +330,9 @@
       "stadium": "FONTE NOVA",
       "city": "SALVADOR/BA",
       "founded_in": 1931,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -296,7 +344,9 @@
       "stadium": "NILTON SANTOS",
       "city": "RIO DE JANEIRO/RJ",
       "founded_in": 1894,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -308,7 +358,9 @@
       "stadium": "NEO QUÍMICA ARENA",
       "city": "SÃO PAULO/SP",
       "founded_in": 1910,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -320,7 +372,9 @@
       "stadium": "COUTO PEREIRA",
       "city": "CURITIBA/PR",
       "founded_in": 1909,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -332,7 +386,9 @@
       "stadium": "INDEPENDÊNCIA",
       "city": "BELO HORIZONTE/MG",
       "founded_in": 1921,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -344,7 +400,9 @@
       "stadium": "ARENA PANTANAL",
       "city": "CUIABÁ/MT",
       "founded_in": 2001,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -356,7 +414,9 @@
       "stadium": "MARACANÃ",
       "city": "RIO DE JANEIRO/RJ",
       "founded_in": 1895,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -368,7 +428,9 @@
       "stadium": "MARACANÃ",
       "city": "RIO DE JANEIRO/RJ",
       "founded_in": 1902,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -380,7 +442,9 @@
       "stadium": "ARENA CASTELÃO",
       "city": "FORTALEZA/CE",
       "founded_in": 1918,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -392,7 +456,9 @@
       "stadium": "SERRA DOURADA",
       "city": "GOIÂNIA/GO",
       "founded_in": 1943,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -404,7 +470,9 @@
       "stadium": "ARENA DO GRÊMIO",
       "city": "PORTO ALEGRE/RS",
       "founded_in": 1903,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -416,7 +484,9 @@
       "stadium": "BEIRA-RIO",
       "city": "PORTO ALEGRE/RS",
       "founded_in": 1909,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -428,7 +498,9 @@
       "stadium": "ALIANZ PARQUE",
       "city": "SÃO PAULO/SP",
       "founded_in": 1914,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -440,7 +512,9 @@
       "stadium": "NABI ABI CHEDID",
       "city": "BRAGANÇA PAULISTA/SP",
       "founded_in": 1928,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -452,7 +526,9 @@
       "stadium": "VILA BELMIRO",
       "city": "SANTOS/SP",
       "founded_in": 1912,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -464,7 +540,9 @@
       "stadium": "MOBUMBI",
       "city": "SÃO PAULO/SP",
       "founded_in": 1930,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -476,7 +554,9 @@
       "stadium": "SÃO JANUÁRIO",
       "city": "RIO DE JANEIRO/RJ",
       "founded_in": 1898,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -488,7 +568,9 @@
       "stadium": "ARENA DAS DUNAS",
       "city": "NATAL/RN",
       "founded_in": 1915,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   },
   {
@@ -500,7 +582,9 @@
       "stadium": "ARENA DAS DUNAS",
       "city": "NATAL/RN",
       "founded_in": 1915,
-      "status": 1
+      "status": 1,
+      "created_at": "2023-04-23 22:22:22.240752",
+      "updated_at": "2023-04-23 22:22:22.240752"
     }
   }
 ]
