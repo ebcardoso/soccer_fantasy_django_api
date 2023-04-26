@@ -7,11 +7,11 @@ from rest_framework import permissions
 
 schema_view = get_schema_view(
   openapi.Info(
-    title="Snippets API",
+    title="Soccer Fantasy League - API",
     default_version='v1',
-    description="Test description",
+    description="",
     terms_of_service="https://www.google.com/policies/terms/",
-    contact=openapi.Contact(email="contact@snippets.local"),
+    contact=openapi.Contact(email="soccer@fantasy.com"),
     license=openapi.License(name="BSD License"),
    ),
   public=True,
@@ -28,7 +28,7 @@ urlpatterns = [
 #Djoser
 urlpatterns += [
   path('api/', include('djoser.urls')),
-  path('api/auth', include('djoser.urls.authtoken')),
+  path('api/auth/', include('djoser.urls.authtoken')),
 ]
 
 #Swagger
