@@ -1,4 +1,5 @@
 from pathlib import Path
+from datetime import timedelta
 from decouple import config
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -30,6 +31,7 @@ INSTALLED_APPS = [
 
 REST_FRAMEWORK = {
   'DEFAULT_AUTHENTICATION_CLASSES': (
+    'rest_framework_simplejwt.authentication.JWTAuthentication',
     'rest_framework.authentication.TokenAuthentication',
   ),
   'DEFAULT_PERMISSION_CLASSES': (
@@ -40,6 +42,12 @@ REST_FRAMEWORK = {
 DJOSER = {
   'PASSWORD_RESET_CONFIRM_URL': 'password/reset/confirm/{uid}/{token}/',
   'PASSWORD_RESET_CONFIRM_RETYPE': True
+}
+
+SIMPLE_JWT = {
+  'AUTH_HEADER_TYPES': ('Bearer',),
+  'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
+  'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
 }
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'

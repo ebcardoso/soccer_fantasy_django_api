@@ -1,6 +1,7 @@
 from rounds.models import Round
 from rounds.serializers import RoundSerializer
-from rest_framework import mixins, permissions, viewsets
+from rest_framework import mixins, viewsets
+from rest_framework.permissions import IsAuthenticated
 
 class RoundViewSet(mixins.CreateModelMixin,
                    mixins.UpdateModelMixin,
@@ -9,4 +10,5 @@ class RoundViewSet(mixins.CreateModelMixin,
                    viewsets.GenericViewSet):
   queryset = Round.objects.all()
   serializer_class = RoundSerializer
+  permission_classes = (IsAuthenticated,)
 
