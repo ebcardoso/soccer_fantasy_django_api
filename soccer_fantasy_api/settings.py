@@ -8,7 +8,7 @@ SECRET_KEY = config('SECRET_KEY')
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
   'django.contrib.admin',
@@ -23,10 +23,12 @@ INSTALLED_APPS = [
   'dr_scaffold',
   'drf_yasg',
   'djoser',
+  'corsheaders',
   # Local Apps
   'competitions',
   'rounds',
-  'teams'
+  'teams',
+  'leagues'
 ]
 
 REST_FRAMEWORK = {
@@ -68,6 +70,14 @@ MIDDLEWARE = [
   'django.contrib.auth.middleware.AuthenticationMiddleware',
   'django.contrib.messages.middleware.MessageMiddleware',
   'django.middleware.clickjacking.XFrameOptionsMiddleware',
+  'corsheaders.middleware.CorsMiddleware'
+]
+
+CORS_ORIGIN_WHITELIST = [
+  'http://localhost',
+  'http://localhost:8080',
+  'http://127.0.0.1:8080',
+  'http://192.168.1.68:8080',
 ]
 
 ROOT_URLCONF = 'soccer_fantasy_api.urls'

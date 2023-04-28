@@ -6,5 +6,9 @@ from leagues.models import League
 class LeagueSerializer(serializers.ModelSerializer):
   class Meta:
     model = League
-    fields = '__all__'
+    fields = [
+      'name',
+      'status',
+      'competition'
+    ]
 

@@ -23,6 +23,7 @@ urlpatterns = [
   path('teams/', include('teams.urls')),
   path('competitions/', include('competitions.urls')),
   path('rounds/', include('rounds.urls')),
+  path('leagues/', include('leagues.urls')),
 ]
 
 #Djoser
