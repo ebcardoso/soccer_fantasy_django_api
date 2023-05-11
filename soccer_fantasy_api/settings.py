@@ -27,6 +27,7 @@ INSTALLED_APPS = [
   # Local Apps
   'competitions',
   'rounds',
+  'matches',
   'teams',
   'leagues'
 ]
