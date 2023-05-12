@@ -29,7 +29,8 @@ INSTALLED_APPS = [
   'rounds',
   'matches',
   'teams',
-  'leagues'
+  'leagues',
+  'scores',
 ]
 
 REST_FRAMEWORK = {
