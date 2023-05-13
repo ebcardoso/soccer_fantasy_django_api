@@ -5,6 +5,7 @@ class ScoreSerializer(serializers.ModelSerializer):
   class Meta:
     model = Score
     fields = [
+      'id',
       'home_goals',
       'away_goals',
       'type_of_score',

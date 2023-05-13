@@ -7,6 +7,7 @@ class LeagueSerializer(serializers.ModelSerializer):
   class Meta:
     model = League
     fields = [
+      'id',
       'name',
       'status',
       'competition'
