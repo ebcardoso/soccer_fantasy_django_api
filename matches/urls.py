@@ -8,5 +8,5 @@ router = routers.DefaultRouter()
 router.register(r'', MatchViewSet)
 
 urlpatterns = [
-    path("", include(router.urls)),
+  path("", include(router.urls)),
 ]
