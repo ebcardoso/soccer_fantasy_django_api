@@ -20,6 +20,7 @@ INSTALLED_APPS = [
   # Imported Apps
   'rest_framework',
   'rest_framework.authtoken',
+  'django_filters',
   'dr_scaffold',
   'drf_yasg',
   'djoser',
@@ -43,6 +44,7 @@ REST_FRAMEWORK = {
     'rest_framework.permissions.IsAuthenticated',
   ),
   'DEFAULT_PAGINATION_CLASS': 'soccer_fantasy_api.pagination.StandardResultsSetPagination',
+  'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend']
 }
 
 DJOSER = {
