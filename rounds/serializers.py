@@ -4,5 +4,9 @@ from rounds.models import Round
 class RoundSerializer(serializers.ModelSerializer):
   class Meta:
     model = Round
-    fields = '__all__'
-
+    fields = [
+      'id',
+      'competition_id',
+      'name',
+      'final_date'
+    ]
