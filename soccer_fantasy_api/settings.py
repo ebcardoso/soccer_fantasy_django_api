@@ -6,6 +6,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = config('SECRET_KEY')
 
+DOMAIN = config('ROOT_URL')
+SITE_NAME = '352 Scores'
+
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
@@ -48,7 +51,7 @@ REST_FRAMEWORK = {
 }
 
 DJOSER = {
-  'PASSWORD_RESET_CONFIRM_URL': 'password/reset/confirm/{uid}/{token}/',
+  'PASSWORD_RESET_CONFIRM_URL': 'auth/reset_password/confirm/{uid}/{token}/',
   'PASSWORD_RESET_CONFIRM_RETYPE': True
 }
 
